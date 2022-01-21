@@ -1,7 +1,7 @@
 # Flipkart Clone
 https://mychatrr.herokuapp.com
 
--> **Node.js** and **Express** are used to create HTTP services. 
+-> **Node.js** and **Express** are used to create HTTP services.   
 -> **MongoDB** is used as database with **Mongoose** as driver.  
 -> **Multer** is used with **Cloudinary** to support image uploads and storage.  
 -> **Socket.io** is used for real time communication with the client.  
