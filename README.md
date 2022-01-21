@@ -1,4 +1,4 @@
-# Flipkart Clone
+# My Chat Backend
 https://mychatrr.herokuapp.com
 
 -> **Node.js** and **Express** are used to create HTTP services.   
