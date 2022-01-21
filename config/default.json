@@ -1,0 +1,10 @@
+{
+  "encryptionAlgo": "",
+  "encryptionKey": "",
+  "jwtSecretKey": "",
+  "databaseConnection": "mongodb://localhost/myChat",
+  "frontendConnection": "http://localhost:3000",
+  "cloudinaryName": "",
+  "cloudinaryApiKey": "",
+  "cloudinaryApiSecret": ""
+}

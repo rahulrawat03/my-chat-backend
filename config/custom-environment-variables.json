@@ -1,0 +1,10 @@
+{
+  "encryptionAlgo": "myChat_encryptionAlgo",
+  "encryptionKey": "myChat_encryptionKey",
+  "jwtSecretKey": "myChat_jwtSecretKey",
+  "databaseConnection": "myChat_databaseConnection",
+  "frontendConnection": "myChat_frontendConnection",
+  "cloudinaryName": "myChat_cloudinaryName",
+  "cloudinaryApiKey": "myChat_cloudinaryApiKey",
+  "cloudinaryApiSecret": "myChat_cloudinaryApiSecret"
+}
