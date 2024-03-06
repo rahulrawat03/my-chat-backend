@@ -7,10 +7,9 @@
 <br>
 <br>
 
-- `Node.js` and `Express` are used to create HTTP services.   
+- `Node.js` and `Express` are used to create HTTP services.
 - `MongoDB` is the database used along with the `Mongoose` driver.
-- `Multer` is used with `Cloudinary` to support image uploads and storage.  
+- `Multer` is used with `Cloudinary` to support image uploads and storage.
 - For real time communication between users, `Socket.io` is used.
 - User passwords and messages are encrypted with the help of `Bcrypt` and `Crypto`.
-
-- Client code is available at [My Chat Client](https://github.com/rahulrawat03/my-chat-frontend) repository.
+- Client code is available at [My Chat Frontend](https://github.com/rahulrawat03/my-chat-frontend) repository.
